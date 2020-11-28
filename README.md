@@ -1,2 +1,2 @@
 # ineuron-ML
-Python
+Python Studies
